@@ -1,0 +1,2 @@
+SERVER_URL=https://qa.api.aws.allegiantair.com/comms-exp-api/api
+PROXY=true
